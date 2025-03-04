@@ -1,0 +1,27 @@
+neo4j:
+  uri: "bolt://localhost:7687"
+  user: "neo4j"
+  password: "your_password"
+
+data:
+  input_file: "data/Three_drug_info.txt"
+  processed_file: "data/drug_data.json"
+
+logging:
+  level: "INFO"
+  file: "logs/vet_kg.log"
+
+visualization:
+  figure_size: [12, 8]
+  node_size: 1500
+  font_size: 8
+
+community_detection:
+  algorithm: "louvain"
+  resolution: 1.0
+
+reports:
+  output_dir: "reports"
+  formats:
+    - yaml
+    - visualization 
