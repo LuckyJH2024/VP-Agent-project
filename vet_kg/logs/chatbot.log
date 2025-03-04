@@ -1,0 +1,15 @@
+2025-03-04 12:29:57,457 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-04 12:30:28,687 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-03-04 12:30:28,714 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-04 12:30:28,714 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-04 12:30:28,717 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 12:30:35,813 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-04 12:30:36,752 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2025-03-04 12:30:36,767 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 12:30:36,771 - werkzeug - INFO -  * Debugger PIN: 419-209-938
+2025-03-04 12:31:55,437 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 12:31:55] "GET / HTTP/1.1" 200 -
+2025-03-04 12:31:55,648 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 12:31:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-04 12:34:20,243 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 12:34:20] "POST /query HTTP/1.1" 200 -
+2025-03-04 12:34:31,948 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 12:34:31] "POST /query HTTP/1.1" 200 -
+2025-03-04 12:34:44,011 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 12:34:44] "POST /query HTTP/1.1" 200 -

@@ -1,15 +1,15 @@
 neo4j:
   uri: "bolt://localhost:7687"
   user: "neo4j"
-  password: "your_password"
+  password: "12345678"
 
 data:
   input_file: "data/Three_drug_info.txt"
   processed_file: "data/drug_data.json"
 
 logging:
-  level: "INFO"
-  file: "logs/vet_kg.log"
+  level: INFO
+  file: "logs/chatbot.log"
 
 visualization:
   figure_size: [12, 8]
@@ -24,4 +24,8 @@ reports:
   output_dir: "reports"
   formats:
     - yaml
-    - visualization 
+    - visualization
+
+models:
+  spacy: "en_core_web_sm"
+  sentence_transformer: "all-MiniLM-L6-v2" 

@@ -1,0 +1,24 @@
+[
+  {
+    "Medicine Name": "ACARBOSE",
+    "Uses/Indications": "May be useful for mild reductions in blood glucose concentrations (250–350 mg/dL range) in dogs and cats with non-insulin-dependent diabetes mellitus and as adjunctive treatment of insulin dependent diabetes mellitus.",
+    "Contraindications/Precautions/Warnings": "Acarbose is contraindicated in patients with known hypersensitivity to the drug, diabetic ketoacidosis, inflammatory bowel disease, colonic ulceration, partial intestinal obstruction or predisposition to obstruction.",
+    "Adverse Effects": "Adverse effects reported in cats include flatulence, soft stools and diarrhea; in dogs, diarrhea and weight loss. Adverse effects are more likely at higher doses.",
+    "Storage/Stability": "Do not store tablets above 25°C (77°F); protect from moisture."
+  },
+  {
+    "Medicine Name": "ACEMANNAN",
+    "Uses/Indications": "Veterinary acemannan injection is labeled for use in dogs or cats as an aid in the treatment (i.e., surgery) and clinical management of fibrosarcoma.",
+    "Contraindications/Precautions/Warnings": "The manufacturer lists no contraindications to using acemannan, however, it should not be used in patients who have demonstrated past severe hypersensitivity reactions to it.",
+    "Adverse Effects": "While the manufacturer does not list any specific adverse effects associated with use, hypersensitivity or localized injection reactions (e.g., necrosis) are possible.",
+    "Storage/Stability": "Acemannan injection should be stored at temperatures less than 35°C (95°F); protect from extremes of heat or light."
+  },
+  {
+    "Medicine Name": "ACEPROMAZINE MALEATE",
+    "Uses/Indications": "Acepromazine is FDA-approved for use in dogs, cats, and horses. Labeled indications for dogs and cats include aid in controlling intractable animals and as a preanesthetic agent.",
+    "Contraindications/Precautions/Warnings": "Use cautiously and in smaller doses in animals with hepatic dysfunction, mild cardiac disease, or general debilitation. Because of its hypotensive effects, acepromazine is relatively contraindicated in patients with significant cardiac disease.",
+    "Adverse Effects": "Acepromazine's effect on blood pressure (hypotension) is well described and an important consideration in therapy. Dogs may be more sensitive to these effects than other animals.",
+    "Storage/Stability": "Store protected from light. Tablets should be stored in tight containers. Acepromazine injection should be kept from freezing."
+  }
+]
+ 
